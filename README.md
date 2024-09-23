@@ -159,6 +159,8 @@ docker-compose up --build
 ### See Also:
 
    * online [go playground](https://go.dev/play/p/VCwlmEjAT0_a)
+   * [Linkedin Go Essential Training](https://github.com/LinkedInLearning/go-essential-training-2446262)
+   https://github.com/LinkedInLearning/go-essential-training-2446262/blob/main/Ch06/06_02/chan.go
 
 ### Author
 [Serguei Kouzmine](kouzmine_serguei@yahoo.com)
